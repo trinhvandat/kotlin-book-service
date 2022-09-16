@@ -2,10 +2,10 @@ package com.edupia.book.entity
 
 import lombok.Data
 import lombok.NoArgsConstructor
-import org.springframework.data.annotation.Id
 import java.util.UUID
 import javax.persistence.Column
 import javax.persistence.Entity
+import javax.persistence.Id
 
 @Data
 @Entity
